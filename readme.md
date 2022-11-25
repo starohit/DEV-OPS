@@ -1,3 +1,5 @@
+## 1. What do you know about DevOps?
+
 ## 2. How is DevOps different from agile methodology?
 
 A: DevOps is a culture that allows the development and the operations team to 
