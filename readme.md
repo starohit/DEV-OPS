@@ -30,7 +30,7 @@ application and rebuild, if necessary.
 Integrate - Multiple codes from different programmers are integrated into one.
 Deploy - Code is deployed into a cloud environment for further usage. It is 
 ensured that any new changes do not affect the functioning of a high traffic 
-website.
-Operate - Operations are performed on the code if required.
+website. 
+Operate - Operations are performed on the code if required. 
 Monitor - Application performance is monitored. Changes are made to meet 
 the end-user requirements
