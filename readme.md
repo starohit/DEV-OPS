@@ -70,3 +70,17 @@ A: Results from the "2017 State of DevOps" Report suggest striking differences b
 ## Extra:
 
 As software development and operations become more closely intertwined, and as companies become increasingly reliant on cloud infrastructure, executives and project managers must develop fluency in DevOps to remain competitive and ensure their teams are performing at their full potential.
+
+                           MONITOR -> PLAN -> CODE -> BUILD 
+                            ^                            |
+             OPERATIONS     |                            v      DEVELOPMENT
+                         OPERATE <- DEPLOY <- RELEASE <- TEST 
+                         
+## DevOps Tool Kit
+
+Automation: Increased efficiency is central to DevOps, and this is significantly achieved through automating a range of relatively slow, onerous processes in software development and infrastructure maintenance. One specific example that Amazon cites is the practice of automatically sending out relatively small but frequent software updates. This practice takes the onus off of systems administrators, who might otherwise have to perform these updates manually. As Amazon notes, this practice also has the benefit of de-risking software deployment through enabling administrators to more easily catch and fix bugs that may arise. Automation is a cornerstone of DevOps and is crucial to the other DevOps practices discussed below.
+
+Continuous Integration: On a fundamental level, DevOps is about close collaboration between engineers and, further, entire teams. Continuous Integration refers to the practice of engineers sharing and merging code in a central location. As Amazon explains, “In the past, developers on a team might work in isolation for an extended period of time and only attempt to merge their changes… once their work was completed.” Through Continuous Integration, engineers can more efficiently collaborate and avoid the bottlenecks associated with developing and integrating their code in a more piecemeal fashion.
+
+Continuous Delivery: Continuous Delivery refers to the practice of automatically delivering and implementing software product changes as they’re made. In other words, Continuous Delivery is enabled by Continuous Integration, given that changes to code can only be effectively pushed to the entire system if the code is already housed in a central place. Automation is also crucial to Continuous Delivery. Indeed, the aforementioned example of sending small, frequent systems updates can also be thought of as an example of Continuous Delivery. Continuous Delivery enables organizations to implement changes and improvements quickly, and it allows engineers to focus their time more efficiently on other, complex issues.
+                            
