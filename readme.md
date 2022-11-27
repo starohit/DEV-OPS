@@ -1,6 +1,7 @@
 ## 1. What do you know about DevOps?
 
 A: As its name suggests, DevOps combines software development and software operations principles with the goal of helping organizations develop products with greater speed and efficiency.
+
 #DevOps is a practice that enables organizations to optimize speed and efficiency across IT functions.
 “DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.”
 #“DevOps people are basically those who have found interest in both systems administration and software development and decided to combine their skills to create a unified, better approach to both.”
