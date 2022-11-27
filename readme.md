@@ -56,3 +56,7 @@ Business benefits
 • Faster delivery of features
 • Stable operating environments
 • Improved communication and collaboration between the team
+
+## 6. Reports
+
+A: Results from the "2017 State of DevOps" Report suggest striking differences between high performance organizations employing DevOps principles and organizations that do not. According to the report, high performance organizations have far higher software deployment frequencies (46 times more frequent), far faster lead time for changes (440 times faster), and a significantly lower software change failure rate (five times lower) than their lower performance counterparts.
