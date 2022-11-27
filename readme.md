@@ -1,5 +1,7 @@
 ## 1. What do you know about DevOps?
 
+A: As its name suggests, DevOps combines software development and software operations principles with the goal of helping organizations develop products with greater speed and efficiency. 
+
 ## 2. How is DevOps different from agile methodology?
 
 A: DevOps is a culture that allows the development and the operations team to 
@@ -12,7 +14,7 @@ developers
 
 ## 3. Which are some of the most popular DevOps tools?
 
-The most popular DevOps tools include:
+A: The most popular DevOps tools include:
 1. Selenium
 2. Puppet
 3. Chef
@@ -42,7 +44,7 @@ the end-user requirements
 
 ## 5. Mention some of the core benefits of DevOps.
 
-The core benefits of DevOps are as follows:
+A: The core benefits of DevOps are as follows:
 Technical benefits
 
 • Continuous software delivery
