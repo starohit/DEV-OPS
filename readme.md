@@ -87,3 +87,7 @@ Continuous Delivery: Continuous Delivery refers to the practice of automatically
 “To be effective, today’s DevOps Engineer needs to have a developer background and possess a wide knowledge of system administration and network knowledge,” Villa said. “It’s important that they be able to bridge the gap between the raw code and the challenges that the business has to face everyday – such as reducing friction between ideas, delivery, and consumers.”
 
 Qualifying as a strong DevOps Engineer is clearly easier said than done, and finding such engineers can be similarly difficult. Still, understanding the tools underlying DevOps practices can empower your organization to more accurately tailor hiring practices around finding the right talent and implementing these practices successfully.
+
+#Get to know the programming language Go
+
+The programming language Go, commonly referred to as Golang, can be a good fit when speed, concurrency and developer experience are a top priority. This strongly typed programming language makes it easier to use, write and read concurrent code than with JavaScript. Go's features also include readable code, extensive documentation and a command-line tool.
