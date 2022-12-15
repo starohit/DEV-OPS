@@ -76,7 +76,7 @@ As software development and operations become more closely intertwined, and as c
              OPERATIONS     |                            v      DEVELOPMENT
                          OPERATE <- DEPLOY <- RELEASE <- TEST 
                          
-## DevOps Tool Kit____
+## DevOps Tool Kit_____
 
 Automation: Increased efficiency is central to DevOps, and this is significantly achieved through automating a range of relatively slow, onerous processes in software development and infrastructure maintenance. One specific example that Amazon cites is the practice of automatically sending out relatively small but frequent software updates. This practice takes the onus off of systems administrators, who might otherwise have to perform these updates manually. As Amazon notes, this practice also has the benefit of de-risking software deployment through enabling administrators to more easily catch and fix bugs that may arise. Automation is a cornerstone of DevOps and is crucial to the other DevOps practices discussed below.
 
