@@ -93,3 +93,6 @@ Qualifying as a strong DevOps Engineer is clearly easier said than done, and fin
 ### Get to know the programming language Go
 
 The programming language Go, commonly referred to as Golang, can be a good fit when speed, concurrency and developer experience are a top priority. This strongly typed programming language makes it easier to use, write and read concurrent code than with JavaScript. Go's features also include readable code, extensive documentation and a command-line tool.
+
+
+continue....
